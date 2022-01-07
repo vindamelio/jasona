@@ -1,0 +1,12 @@
+git init
+git status 
+git remote add origin https://github.com/vindamelio/jasona.git
+git branch -M main
+git add . 
+git commit -am "first commit" 
+git push --set-upstream origin master
+
+
+
+
+git push -u origin main
