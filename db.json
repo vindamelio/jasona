@@ -64,5 +64,54 @@
             "eta": 58,
             "punti": 79
         }
+    ],
+
+    "markets":[    
+        {
+            "id": "UNO",
+            "eta": 58,
+            "punti": 77
+        },
+        {
+            "id": "DUE",
+            "eta": 55,
+            "punti": 71
+        },
+        {
+            "id": "TRE",
+            "eta": 51,
+            "punti": 57
+        },
+        {
+            "id": "QUATTRO",
+            "eta": 38,
+            "punti": 27
+        },
+        {
+            "id": "CINQUE",
+            "eta": 48,
+            "punti": 77
+        },
+        {
+            "id": "SEI",
+            "eta": 48,
+            "punti": 87
+        },
+        {
+            "id": "SETTE",
+            "eta": 28,
+            "punti": 67
+        },
+        {
+            "id": "OTTO",
+            "eta": 35,
+            "punti": 61
+        },
+        {
+            "id": "NOVE",
+            "eta": 58,
+            "punti": 79
+        }
     ]
+
 }
