@@ -112,6 +112,64 @@
             "eta": 58,
             "punti": 79
         }
+    ],
+    "trenini":[    
+        {
+            "id":1,
+            "idt":"ASD", 
+            "linea":"Rossa",
+            "numchatting":32,
+            "tempo":115000, 
+            "partenza": "2022-12-17 06:05:09"
+        },
+        {
+            "id":2,
+            "idt":"ARE", 
+            "linea":"Verde",
+            "numchatting":29,
+            "tempo":125000, 
+            "partenza": "2022-12-17 09:33:09"
+        },
+        {
+            "id":3,
+            "idt":"BFD", 
+            "linea":"Gialla",
+            "numchatting":47,
+            "tempo":135000, 
+            "partenza": "2022-12-17 11:20:09"
+        },
+        {
+            "id":4,
+            "idt":"ASE", 
+            "linea":"Rossa",
+            "numchatting":17,
+            "tempo":145000, 
+            "partenza": "2022-12-17 13:45:09"
+        },
+        {
+            "id":5,
+            "idt":"ARF", 
+            "linea":"Verde",
+            "numchatting":44,
+            "tempo":155000, 
+            "partenza": "2022-12-17 17:12:09"
+        },
+        {
+            "id":6,
+            "idt":"BFG", 
+            "linea":"Gialla",
+            "numchatting":7,
+            "tempo":165000, 
+            "partenza": "2022-12-17 21:50:09"
+        },
+        {
+            "id":7,
+            "idt":"ASF", 
+            "linea":"Rossa",
+            "numchatting":24,
+            "tempo":175000, 
+            "partenza": "2022-12-17 23:37:09"
+        }
     ]
 
 }
